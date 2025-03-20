@@ -59,7 +59,6 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ### **Programming & Frameworks**  
 - **Python** (Deep Learning, API, Data Processing)  
-- **Java** (OOP, Data Structures)  
 - **JavaScript** (ES6+, DOM, Async)  
 - **Django** (Backend Development)  
 
