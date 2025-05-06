@@ -24,7 +24,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 ### 📄 **Journal Papers**  
 - **Minjun Jeong**, Taewook Wee, Jongpil Jeong (2024)  
   📌 *Hybrid-DC: A hybrid framework using ResNet-50 and vision transformer for steel surface defect classification in the rolling process.*  
-  📕 [SCIE]**Electronics**, 2024  
+  📕 **[SCIE]** **Electronics**, 2024  
 
 - Jiwan Park, Jieun Lee, Taewook Wi, **Minjun Jeong**, Jongpil Jeong (2024)  
   📌 *다품종 소량 생산에 적합한 에지 인식 기반 로봇 좌표 입력 및 이동 기법 연구.*  
@@ -41,19 +41,17 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ## 🧪 Industry-Coupled Projects  
 
-\begin{rSection}{Industry-Coupled Projects}
-{\bf 캡스톤 프로젝트} \hfill {Mar 2024 -- Jun 2024}\\
-주제명 : 제조 공정 최적화를 위한 XAI 기반 이미지 전처리 및 결함 분류 모델 개발\\
-역할 : 프로젝트의 전반적인 기획 및 관리, 팀 구성 및 역할 분배, 프로젝트 일정 관리, 이미지 전처리 알고리즘 설계, 딥러닝 모델 설계 및 구현, 결함 분류 성능 평가.
+| 캡스톤 프로젝트 | Mar 2024 -- Jun 2024 |
+| 주제명 | 제조 공정 최적화를 위한 XAI 기반 이미지 전처리 및 결함 분류 모델 개발 |
+| 역할 | 프로젝트의 전반적인 기획 및 관리, 팀 구성 및 역할 분배, 프로젝트 일정 관리, 이미지 전처리 알고리즘 설계, 딥러닝 모델 설계 및 구현, 결함 분류 성능 평가 |
 
-{\bf ICT명품인재양성사업 창의자율과제} \hfill {May 2024 -- Aug 2024} \\
-주제명 : 인공지능 기술을 활용한 3D 양품/불량 판정(Anomaly Detection) 모델 개발\\
-역할 : 프로젝트의 전반적인 관리, 팀 구성 및 역할 분배, 프로젝트 일정 관리, 모델 연구.
+| ICT명품인재양성사업 창의자율과제 | May 2024 -- Aug 2024 |
+| 주제명 | 인공지능 기술을 활용한 3D 양품/불량 판정(Anomaly Detection) 모델 개발 |
+| 역할 | 프로젝트의 전반적인 관리, 팀 구성 및 역할 분배, 프로젝트 일정 관리, 모델 연구 |
 
-{\bf 캡스톤 프로젝트} \hfill {Sep 2024 -- Dec 2024}\\
-주제명 : 실시간 제조 공정 결함 탐지 및 설명 가능한 딥러닝 시스템 개발\\
-역할 : 프로젝트의 전반적인 기획 및 관리, 팀 구성 및 역할 분배, 프로젝트 일정 관리, 딥러닝 모델 설계 및 구현.
-\end{rSection}
+| 캡스톤 프로젝트 |Sep 2024 -- Dec 2024 |
+| 주제명 | 실시간 제조 공정 결함 탐지 및 설명 가능한 딥러닝 시스템 개발 |
+| 역할 | 프로젝트의 전반적인 기획 및 관리, 팀 구성 및 역할 분배, 프로젝트 일정 관리, 딥러닝 모델 설계 및 구현 |
 
 ---
 ## 📚 Seminar on Thesis Research  🔗 [YouTube](https://youtube.com/@smartfactoryskku?si=0DLrMIdHd2gNmFqz) |
