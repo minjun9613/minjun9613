@@ -19,6 +19,29 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ---
 
+## 📘 Major & Prerequisite Courses
+*Representative graduate-level and prerequisite courses related to AI and computer vision.*
+
+### 📘 Major Courses
+
+| Course Title             | Credits | Grade |
+|--------------------------|---------|-------|
+| 딥러닝기술응용              | 3.0     | A     |
+| 머신비전응용                | 3.0     | A+    |
+| 융합비즈니스모델기획         | 3.0     | A+    |
+
+
+### 📗 Prerequisite Courses
+
+| Course Title         | Credits | Grade |
+|----------------------|---------|-------|
+| 컴퓨터비전개론         | 3.0     | P     |
+| 데이터마이닝           | 3.0     | P     |
+| 자료구조개론           | 3.0     | P     |
+
+
+---
+
 ## 🏆 Publications & Patents  
 
 ### 📄 **Journal Papers**  
@@ -38,23 +61,34 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 - 🛠 *Anomaly Classification Toolkit for Steel Surface Defects Data* (2024)  
 
 ---
+## 🧪 Industry-Coupled Projects
 
-## 🧪 Industry-Coupled Projects  
+### 📌 Capstone Project (Mar 2024 – Jun 2024)
+**Topic:** 제조 공정 최적화를 위한 XAI 기반 이미지 전처리 및 결함 분류 모델 개발  
+**Role:**  
+- 프로젝트 기획 및 일정 관리  
+- 팀 구성 및 역할 분배  
+- 이미지 전처리 알고리즘 설계  
+- 딥러닝 모델 설계 및 결함 분류 성능 평가  
 
-| 캡스톤 프로젝트 | Mar 2024 -- Jun 2024 |
-|------------|--------------|
-| 주제명 | 제조 공정 최적화를 위한 XAI 기반 이미지 전처리 및 결함 분류 모델 개발 |
-| 역할 | 프로젝트의 전반적인 기획 및 관리, 팀 구성 및 역할 분배, 프로젝트 일정 관리, 이미지 전처리 알고리즘 설계, 딥러닝 모델 설계 및 구현, 결함 분류 성능 평가 |
+---
 
-| ICT명품인재양성사업 창의자율과제 | May 2024 -- Aug 2024 |
-|------------|--------------|
-| 주제명 | 인공지능 기술을 활용한 3D 양품/불량 판정(Anomaly Detection) 모델 개발 |
-| 역할 | 프로젝트의 전반적인 관리, 팀 구성 및 역할 분배, 프로젝트 일정 관리, 모델 연구 |
+### 📌 ICT 명품인재양성사업 창의자율과제 (May 2024 – Aug 2024)  
+**Topic:** 인공지능 기술을 활용한 3D 양품/불량 판정(Anomaly Detection) 모델 개발  
+**Role:**  
+- 프로젝트 총괄 관리  
+- 팀 운영 및 일정 조율  
+- Anomaly Detection 모델 연구 및 구현  
 
-| 캡스톤 프로젝트 |Sep 2024 -- Dec 2024 |
-|------------|--------------|
-| 주제명 | 실시간 제조 공정 결함 탐지 및 설명 가능한 딥러닝 시스템 개발 |
-| 역할 | 프로젝트의 전반적인 기획 및 관리, 팀 구성 및 역할 분배, 프로젝트 일정 관리, 딥러닝 모델 설계 및 구현 |
+---
+
+### 📌 Capstone Project (Sep 2024 – Dec 2024)  
+**Topic:** 실시간 제조 공정 결함 탐지 및 설명 가능한 딥러닝 시스템 개발  
+**Role:**  
+- 프로젝트 기획 및 일정 조율  
+- 팀 구성 및 역할 분배  
+- 실시간 결함 탐지 딥러닝 모델 설계 및 구현
+
 
 ---
 ## 📚 Seminar on Thesis Research  🔗 [YouTube](https://youtube.com/@smartfactoryskku?si=0DLrMIdHd2gNmFqz) |
