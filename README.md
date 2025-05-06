@@ -104,6 +104,8 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 | **2024-09-17** | ETDNet: Efficient Transformer-Based Detection Network for Surface Defect Detection |
 | **2025-01-14** | Efficient Fused-Attention Model for Steel Surface Defect Detection |
 | **2025-01-31** | Surface defect detection and classification of steel using an efficient Swin Transformer |
+| **2025-03-26** | SimpleNet: A Simple Network for Image Anomaly Detection and Localization |
+| **2025-04-18** | Attention-Enhanced Multi-Task Deep Learning Model for Automatic Diagnosis |
 
 ---
 
