@@ -24,20 +24,20 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ### 📘 Major Courses
 
-| Course Title             | Credits | Grade |
-|--------------------------|---------|-------|
-| 딥러닝기술응용              | 3.0     | A     |
-| 머신비전응용                | 3.0     | A+    |
-| 융합비즈니스모델기획         | 3.0     | A+    |
+| Course Title             |
+|--------------------------|
+| 딥러닝기술응용              |
+| 머신비전응용                |
+| 융합비즈니스모델기획         |
 
 
 ### 📗 Prerequisite Courses
 
-| Course Title         | Credits | Grade |
-|----------------------|---------|-------|
-| 컴퓨터비전개론         | 3.0     | P     |
-| 데이터마이닝           | 3.0     | P     |
-| 자료구조개론           | 3.0     | P     |
+| Course Title         |
+|----------------------|
+| 컴퓨터비전개론         |
+| 데이터마이닝           |
+| 자료구조개론           |
 
 
 ---
@@ -45,7 +45,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 ## 🏆 Publications & Patents  
 
 ### 📄 **Journal Papers**  
-- **Minjun Jeong**, Taewook Wee, Jongpil Jeong (2024)  
+- **Minjun Jeong**, Minyeol Yang, Jongpil Jeong (2024)  
   📌 *Hybrid-DC: A hybrid framework using ResNet-50 and vision transformer for steel surface defect classification in the rolling process.*  
   📕 **[SCIE]** **Electronics**, 2024  
 
